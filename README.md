@@ -23,7 +23,7 @@ Now there are two options to create the enviroment one via terminal and the othe
 Via terminal:
 1. Open the terminal on the folder with the requirements.txt file and execute
   ```sh
-  conda create -n deep_learning python=3.7
+  conda create -n deep_learning python=3.6
   ```
 2. After the creation, activate the environment and install the dependencies with
   ```sh
