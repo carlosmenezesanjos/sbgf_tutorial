@@ -36,9 +36,9 @@ Via Anaconda Navigator:
   ```sh
   anaconda-navigator
   ```
-2. On the tab enviroments, click the button create to create a new enviroment.
+2. On the tab enviroments(#1), click the button create(#2) to create a new enviroment.
 ![](createbutton.png)
-3. Fill the fields with name and package and click the button to create, this may take a few minutes.
+3. Fill the fields with name(#1) and package(#2) and click the button to create, this may take a few minutes.
 ![](createbuttonoptions.png)
 4. Once created, to activate the enviroment, select the enviroment by click over it's name and on the play symbol. This will open an options window, select open terminal.
 ![](envoptions.png)
