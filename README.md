@@ -25,7 +25,9 @@ Via terminal:
   ```sh
   conda create -n deep_learning python=3.7
   ```
+2. After the creation, activate the environment and install the dependencies with
   ```sh
+  conda activate deep_learning
   pip install -r requirements.txt
   ```
   
