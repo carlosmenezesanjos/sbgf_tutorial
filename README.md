@@ -35,9 +35,9 @@ Via Anaconda Navigator:
   anaconda-navigator
   ```
 2. On the tab enviroments, click the button create to create a new enviroment.
-![](../createbutton.png)
+![](createbutton.png)
 3. Fill the fields with name and package and click the button to create, this may take a few minutes.
-![](../createbuttonoptions.png)
+![](createbuttonoptions.png)
 4. Once created, to activate the enviroment, select the enviroment by click over it's name and on the play symbol. This will open an options window, select open terminal.
 5. On terminal, navigate to the folder where the requirements.txt is located and execute
   ```sh
