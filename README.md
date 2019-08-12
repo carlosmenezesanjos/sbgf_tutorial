@@ -1,9 +1,9 @@
-# SBGF enviroment preparation instructions
-This is an installation instructions guide for the enviroment used on SBGF Machine Learning and Deep Learning Tutorial.
+# SBGF environment preparation instructions
+This is an installation instructions guide for the environment used on SBGF Machine Learning and Deep Learning Tutorial.
 
 # CUDA and CUDNN
 
-If you have on your machine a nvidia gpu that supports cuda 10.0 the first step is to install cuda 10.0 and cudnn >= 7.4.1. If you don't  skip to the enviroment creation.
+If you have on your machine a nvidia gpu that supports cuda 10.0, the first step is to install cuda 10.0 and cudnn >= 7.4.1. If you don't  skip to the environment creation.
 
 Guides that will help you with cuda installation:
 
@@ -11,14 +11,14 @@ Guides that will help you with cuda installation:
 [https://docs.nvidia.com/cuda/index.html](https://docs.nvidia.com/cuda/index.html)
 [https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html)
 
-# Enviroment creation with Anaconda
+# Environment creation with Anaconda
 
 1. Download Anaconda for your operational system [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/) and follow it's installation guide [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 2. Download the requirements.txt that is available on this repository.
     If you have a nvidia gpu and already installed cuda and cudnn, download the requirements.txt available on ./gpu/requirements.txt
     If you don't have a nvidia gpu, download the requirements.txt available on ./cpu/requirements.txt
 
-Now there are two options to create the enviroment one via terminal and the other using Anaconda Navigator.
+There are two options to create the environment, one via terminal and the other using Anaconda Navigator.
 
 Via terminal:
 1. Open the terminal on the folder with the requirements.txt file and execute
